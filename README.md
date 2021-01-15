@@ -2,7 +2,6 @@
 STT: 13\
 Thông tin nhóm:\
     - 18120464 Nguyễn Văn Minh\
-    - 18120434 Thái Hoàng Lâm\
-    - Tài khoản Github: hoanglam372000
+    - 18120434 Thái Hoàng Lâm  - hoanglam372000
     
 
